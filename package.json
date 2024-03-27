@@ -1,0 +1,41 @@
+{
+  "name": "cyto-logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YinDongFang/cyto-logger.git"
+  },
+  "author": "YinDongFang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YinDongFang/cyto-logger/issues"
+  },
+  "homepage": "https://github.com/YinDongFang/cyto-logger#readme",
+  "dependencies": {
+    "cytoscape": "^3.28.1",
+    "debug": "^4.3.4",
+    "is-array": "^1.0.1",
+    "is-bool": "^0.0.3",
+    "is-falsy": "^0.0.1",
+    "is-null": "^1.0.1",
+    "is-object": "^1.0.2",
+    "is-odd": "^3.0.1",
+    "is-string": "^1.0.7",
+    "jquery": "^3.7.1",
+    "lazy-store-loader": "^2.0.3",
+    "nodemon": "^3.1.0",
+    "vite": "^5.2.6",
+    "webpack": "^5.91.0",
+    "cyto-visualizer": "^1.0.0",
+    "cyto-core": "^1.0.0",
+    "cyto-tools": "^1.0.0",
+    "cyto-library": "^1.0.0",
+    "cyto-module": "^1.0.0",
+    "cyto-framework": "^1.0.0"
+  }
+}
